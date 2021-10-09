@@ -1,8 +1,8 @@
 pkgname=playlist-player
-pkgver=1.0
+pkgver=1.2
 pkgrel=1
-pkgdesc="Small Electronic Collection player"
-arch=('x86_64')
+pkgdesc="Tiny script for playing your playlist with one command!"
+arch=('any')
 
 package() {
 	mkdir -p "${pkgdir}/usr/bin"

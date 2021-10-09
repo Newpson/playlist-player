@@ -1,4 +1,4 @@
-![logo.png](https://i.imgur.com/DVpEWo5.png) `TINY`
+![logo.png](https://i.imgur.com/DVpEWo5.png)
 
 > This is just a proper scripting attempt. Not real project.
 
@@ -13,4 +13,5 @@ Another part of the description.
 * Fourth
 
 *Here is some useful links.*
+
 [![](https://i.imgur.com/ouBqAAh.png)](https://t.me/newpson "![](https://i.imgur.com/ouBqAAh.png)")
